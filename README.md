@@ -42,8 +42,8 @@ Juego 2D arcade desarrollado en Kotlin con el framework libGDX. Tu nave cruza el
 
 | Objeto | Efecto |
 |---|---|
-| 🪨 Meteorito gris | -20 escudo |
-| 🔴 Meteorito rojo | -35 escudo *(aparece a los 30s)* |
+| 🪨 Meteorito pequeño | -20 escudo |
+| 🔴 Meteorito grande | -35 escudo *(aparece a los 30s)* |
 | 💎 Cristal verde | +20 escudo |
 
 </div>
