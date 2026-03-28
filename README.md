@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>AstroBlast</h1>
-  <img src="assets/AstroBlast.gif" width="600"/>
+
 <p>
   <img src="https://img.shields.io/badge/Platform-Desktop-blue?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Build-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Completado-2EA44F?style=flat-square"/>
 </p>
-
+    <img src="assets/AstroBlast.gif" width="600"/>
 </div>
 
 <hr/>
