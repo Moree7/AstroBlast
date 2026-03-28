@@ -18,7 +18,7 @@
 
 Juego 2D arcade desarrollado en Kotlin con el framework libGDX. Tu nave cruza el cinturón de asteroides y tiene que sobrevivir **90 segundos** esquivando meteoritos y recogiendo cristales de energía para mantener el escudo por encima de cero.
 
-> Basado en el tutorial *A Simple Game (Drop)* de libGDX, extendido con mecánicas propias.
+> Basado en el tutorial *A Simple Game (Drop)* de libGDX
 
 ---
 
