@@ -11,7 +11,7 @@
 </p>
 
 </div>
-
+  <img src="assets/AstroBlast.gif" width="600"/>
 <hr/>
 
 ## ¿Qué es AstroBlast?
