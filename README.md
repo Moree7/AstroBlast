@@ -102,15 +102,5 @@ core/
 
 ---
 
-## Conclusiones
-
-Lo más útil que aprendí fue la diferencia entre representación lógica y gráfica: el `Rectangle` es matemática invisible para detectar colisiones, el `Sprite` es lo que ve el jugador. Tenerlos separados hace el código mucho más claro.
-
-También entendí por qué el `dispose()` es obligatorio: las texturas viven en la GPU y Java no las limpia solo.
-
-El imán fue lo más interesante de implementar porque tuve que calcular y normalizar un vector dirección para que la velocidad fuera constante sin importar la distancia.
-
----
-
 ## 👤 Autor
 - Moree7
